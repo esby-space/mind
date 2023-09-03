@@ -1,0 +1,3 @@
+Valence electrons are the electrons in the outer most shell of the atom. They are super important for [[chemical bonds|bonding]], and therefore can tell a lot about an element, and how it interacts with other elements!
+
+Finding the number of valence electrons in an element required writing out its [[electron configuration]] and seeing how many are in the top shell, or finding its group on the [[periodic table]].

@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 const config: QuartzConfig = {
     configuration: {
@@ -40,6 +40,7 @@ const config: QuartzConfig = {
             },
         },
     },
+
     plugins: {
         transformers: [
             Plugin.FrontMatter(),
@@ -69,6 +70,6 @@ const config: QuartzConfig = {
             Plugin.Static(),
         ],
     },
-}
+};
 
-export default config
+export default config;

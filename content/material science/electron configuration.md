@@ -2,7 +2,7 @@ Electron configuration describes where all my electrons are! For that, we need t
 
 Describing the *ground state* (the state with the lowest energy) of an atom relies on three principles:
 
-1. The Pauli Exclusion Principle ^af37e8
+1. **The Pauli Exclusion Principle** ^af37e8
 	- no two electrons of one atom can have the same quantum numbers
 
 2. **Aufbau Principle**
@@ -10,7 +10,7 @@ Describing the *ground state* (the state with the lowest energy) of an atom reli
 	 - ![How to Represent Electrons in an Energy Level Diagram - dummies](https://www.dummies.com/wp-content/uploads/167863.image0.jpg)
 	 - 1s -> 2s -> 2p -> 3s -> 3p -> 4s -> 3d -> etc.
 
-3. Hund's Principle
+3. **Hund's Principle**
 	- every orbital in a sub-shell should be singularly occupied before doubling up
 	- all singularly occupied orbitals should have the same spin
 
